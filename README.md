@@ -1,7 +1,7 @@
 # The Digital Economy Coursework
 
 <div align="center">
-  <img src="Unit 2 - The Digital Economy" alt="Ebook Cover" width="400px">
+  <img src="Unit 2 - The Digital Economy.JPG" =alt="Ebook Cover" width="400px">
 </div>
 
 This repository contains the coursework materials for the Applied ICT subject, specifically focusing on the Digital Economy. This coursework was completed as part of the International Advanced Level (UK High School) program.
